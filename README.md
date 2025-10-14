@@ -22,26 +22,29 @@
 ### 🔹 Languages & Tools  
 
 <p align="center">
-  <!-- All-in-one Badges -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #306998);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #f7df1e);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #007ACC);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #00599C);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #61DAFB);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #764ABC);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #339933);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #000000);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #47A248);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #38BDF8);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #000000);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #FF4B4B);"/>
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=white" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/-LangChain-00CCFF?style=for-the-badge&labelColor=white" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&labelColor=white" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=white" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=white" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=white" width="50" height="50"/>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #306998);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #f7df1e);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #007ACC);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #00599C);"/>
+  
+  <!-- Full Stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #61DAFB);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #764ABC);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #339933);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #000000);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #47A248);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #38BDF8);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #000000);"/>
+
+  <!-- AI / ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #FF4B4B);"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #412991);"/>
+  <img src="https://img.shields.io/badge/-LangChain-00CCFF?style=for-the-badge&labelColor=white&logoColor=white" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #00CCFF);"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #F7931E);"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #150458);"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/numpy.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #013243);"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #EE4C2C);"/>
 </p>
 
 ---
