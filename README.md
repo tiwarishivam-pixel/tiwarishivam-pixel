@@ -2,9 +2,8 @@
 <h3 align="center">💻 AI/ML Junkie | Full Stack Hacker | Coffee-powered coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&color=ff6f61&center=true&lines=%F0%9F%A4%96+AI+overlord+in+training;💻+Breaking+things+so+I+can+learn+faster;☕+Coffee+in+one+hand,+code+in+the+other;🐛+Debugging+life+one+error+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&color=ff6f61&center=true&lines=%F0%9F%A4%96+AI+overlord+in+training;%F0%9F%92%BB+Breaking+things+so+I+can+learn+faster;%E2%98%95+Coffee+in+one+hand,+code+in+the+other;%F0%9F%90%9B+Debugging+life+one+error+at+a+time" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -13,24 +12,36 @@
 - Third-year engineering student surviving **placement season 2026** ☕  
 - Daily experiments in **AI/ML, LangChain, Streamlit**, and **full-stack hacks**  
 - Current projects:
-  - 🧩 **Senri** — connecting students, teachers & HR  
+  - 🧩 **Senri** — platform connecting students, teachers & HR  
   - 🤖 **EchoTube** — AI-powered YouTube summarizer  
 
 > I write code. I break code. I fix code. Repeat.
 
 ---
 
-### 🔹 Languages & Tools (Animated / Glowing)  
+### 🔹 Languages & Tools  
 
 <p align="center">
+  <!-- All-in-one Badges -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #306998);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #f7df1e);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #007ACC);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #00599C);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #61DAFB);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #764ABC);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #339933);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #000000);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #47A248);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #38BDF8);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #000000);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 8px #FF4B4B);"/>
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=white" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/-LangChain-00CCFF?style=for-the-badge&labelColor=white" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&labelColor=white" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=white" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=white" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=white" width="50" height="50"/>
 </p>
 
 ---
