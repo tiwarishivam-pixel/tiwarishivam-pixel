@@ -11,77 +11,75 @@
 
 ### 🌟 About Me  
 
-I'm a **third-year engineering student** on a mission to land a **high-salary AI/ML role within a year** — combining my love for **AI**, **machine learning**, and **full-stack development** into meaningful projects.  
+I'm a **third-year engineering student** aiming to land a **high-salary AI/ML role** — combining **AI/ML**, **Python**, and **full-stack development** into impactful projects.  
 
 Currently, I’m building:
-- 🧩 **Senri** — a platform for **students, teachers, and HR**  
-- 🤖 **EchoTube** — a **LangChain + Streamlit** based YouTube video summarizer  
-- 💡 Multiple hackathon and AI/ML experiments — because sleep is overrated 😅  
+- 🧩 **Senri** — platform for **students, teachers, and HR**  
+- 🤖 **EchoTube** — **LangChain + Streamlit** YouTube summarizer  
+- 💡 Hackathon and AI/ML experiments — because sleep is optional 😅  
 
-I love turning ideas into real, working products and exploring how AI can reshape how we learn, build, and connect.
+I love **turning AI ideas into real products** and experimenting with **state-of-the-art ML tools**.
 
 ---
 
-### 🧠 My Tech Stack
+### 🧠 Tech Stack & Skills  
 
-| Area | Tools & Frameworks |
-|------|--------------------|
-| **Languages** | Python 🐍, TypeScript, JavaScript, C++ |
-| **Frontend** | React ⚛️, Redux, HTML5, CSS3, Tailwind |
-| **Backend** | Node.js, Express.js, REST API, GraphQL |
-| **Database & ORM** | PostgreSQL (Neon / Supabase), Prisma, Drizzle ORM |
-| **AI/ML** | LangChain, Streamlit, OpenAI API, Scikit-learn |
-| **Other Tools** | Git, Docker, VS Code, Cursor IDE |
+#### Languages & Frameworks  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### Frontend & Backend  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### AI/ML & Tools 🔥  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-00CCFF?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge)
 
 ---
 
 ### 💼 My Ongoing Projects
 
-- 🎓 **Senri** — A full-stack platform connecting **students, teachers, and HR**  
-- 🤖 **EchoTube** — AI-based video summarizer using **LangChain + Streamlit**
+- 🎓 **Senri** — Full-stack platform connecting **students, teachers, and HR**  
+- 🤖 **EchoTube** — AI-powered YouTube video summarizer using **LangChain + Streamlit**  
 
 ---
 
-### 📚 What I’m Currently Up To
+### 📚 Currently Learning
 
-- 🌱 Learning **Advanced Machine Learning** & **Full Stack Integration**  
-- 🔍 Exploring **AI app deployment** and **LLM-powered chat systems**  
-- 💬 Actively preparing for **placement season 2026**  
+- 🌱 Advanced **Machine Learning & Deep Learning**  
+- 🔍 AI app deployment & LLM-powered chat systems  
+- 💬 Preparing for **AI/ML placements 2026**  
 
 ---
 
 ### 🧩 Fun Fact  
-> “I debug my life the same way I debug my code — lots of print statements and existential errors.” 😅  
+> “I debug my life like I debug code — `print('Why is this broken?')` 😅”  
 
 ---
 
-### 🌐 Let’s Connect  
+### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivam-tiwari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://x.com/shivam_tiwari" target="_blank"><img src="https://img.shields.io/badge/-X_(Twitter)-black?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="mailto:shivamtiwari@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/yourdiscordid" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://t.me/yourtelegramid" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://instagram.com/yourinstagramid" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shivam-tiwari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/shivam_tiwari" target="_blank"><img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Snake (Crazy Version)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamtiwari&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamtiwari&theme=radical" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamtiwari&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?snake=dragon&theme=radical&invert=false" alt="crazy snake animation" />
 </p>
 
 ---
