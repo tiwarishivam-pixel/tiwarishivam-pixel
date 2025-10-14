@@ -33,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #764ABC);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #339933);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #47A248);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #38BDF8);"/>
 
   <!-- Next.js (dark logo) -->
   <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#000000; padding:8px; box-shadow:0 0 8px #000000;">
@@ -48,9 +47,6 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="34" height="34" style="border-radius:50%;"/>
   </span>
 
-  <!-- LangChain (dark) -->
-  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#f44fFF; padding:8px; box-shadow:0 0 8px #00CCFF;">
-    <img src="https://img.shields.io/badge/-LangChain-00CCFF?style=for-the-badge&labelColor=00CCFF&logoColor=white" width="34" height="34" style="border-radius:50%;"/>
 
  
 
