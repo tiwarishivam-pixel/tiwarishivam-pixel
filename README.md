@@ -32,10 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #61DAFB);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #764ABC);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #339933);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #000000);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #000000);"/> <!-- Express colored -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #47A248);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #38BDF8);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #000000);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #000000);"/>
 
   <!-- AI / ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #FF4B4B);"/>
