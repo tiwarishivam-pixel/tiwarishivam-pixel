@@ -49,12 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50" style="border-radius:50%; filter: drop-shadow(0 0 8px #FF4B4B);"/>
 
   <!-- OpenAI (dark) -->
-  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#412991; padding:8px; box-shadow:0 0 8px #412991;">
+  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#41f681; padding:8px; box-shadow:0 0 8px #412991;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="34" height="34" style="border-radius:50%;"/>
   </span>
 
   <!-- LangChain (dark) -->
-  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#00CCFF; padding:8px; box-shadow:0 0 8px #00CCFF;">
+  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#f44fFF; padding:8px; box-shadow:0 0 8px #00CCFF;">
     <img src="https://img.shields.io/badge/-LangChain-00CCFF?style=for-the-badge&labelColor=00CCFF&logoColor=white" width="34" height="34" style="border-radius:50%;"/>
   </span>
 
@@ -64,17 +64,17 @@
   </span>
 
   <!-- Pandas -->
-  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#150458; padding:8px; box-shadow:0 0 8px #150458;">
+  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#ff23f4; padding:8px; box-shadow:0 0 8px #150458;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg" width="34" height="34" style="border-radius:50%;"/>
   </span>
 
   <!-- NumPy -->
-  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#013243; padding:8px; box-shadow:0 0 8px #013243;">
+  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#f68fff; padding:8px; box-shadow:0 0 8px #013243;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/numpy.svg" width="34" height="34" style="border-radius:50%;"/>
   </span>
 
   <!-- PyTorch -->
-  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#EE4C2C; padding:8px; box-shadow:0 0 8px #EE4C2C;">
+  <span style="display:inline-block; width:50px; height:50px; border-radius:50%; background-color:#ffffff; padding:8px; box-shadow:0 0 8px #EE4C2C;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" width="34" height="34" style="border-radius:50%;"/>
   </span>
 </p>
