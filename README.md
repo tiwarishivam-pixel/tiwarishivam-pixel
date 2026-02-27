@@ -1,43 +1,50 @@
-### Shivam Tiwari
+<h1 align="center">Shivam Tiwari</h1>
 
-Blockchain & Web3 Developer  
-Freelance Full-Stack AI & Web3 Engineer
+<p align="center">
+Blockchain & Web3 Developer • Full-Stack AI Engineer
+</p>
 
-I design and build decentralized applications, smart contract systems, and full-stack products focused on real-world use cases.
-
----
-
-## Focus Areas
-• Smart Contract Engineering  
-• Decentralized Application (DApp) Development  
-• Full Stack System Architecture  
-• AI + Web3 Integrations  
+<p align="center">
+Building decentralized products, experimenting with intelligent systems, and shipping real-world applications.
+</p>
 
 ---
 
-## Tech Stack
-Solidity · Ethereum · Web3.js · IPFS  
-Next.js · TypeScript · Node.js · PostgreSQL  
+### ⚡ What I Do
+- Smart Contract & DApp Development
+- Full-Stack Product Engineering
+- AI + Web3 Integrations
+- Hackathon-driven innovation
 
 ---
 
-## Selected Projects
-
-**Senri**  
-AI-driven placement preparation platform featuring resume generation, mock interviews, and automation tools.
-
-**Morvo**  
-Decentralized journalism platform enabling censorship-resistant reporting using blockchain infrastructure.
-
-**Coding Agent**  
-Self-improving developer agent built for automation and productivity workflows.
+### 🧠 Stack
+`Solidity` `Ethereum` `Web3` `IPFS`  
+`Next.js` `TypeScript` `Node.js` `PostgreSQL`  
+`AI Agents` `Automation`
 
 ---
 
-## Currently
-Building Web3 systems and collaborating on innovative products.
+### 🚀 Selected Work
+
+**Senri** — AI placement preparation platform with resume builder, mock interviews & automation tools  
+
+**Morvo** — decentralized journalism platform enabling censorship-resistant reporting  
+
+**Coding Agent** — self-improving developer automation system
 
 ---
 
-## Connect
-LinkedIn • Twitter • Portfolio
+### 🌐 Philosophy
+Build → Ship → Learn → Repeat
+
+---
+
+### 🤝 Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shivam-tiwari-ai">LinkedIn</a> •
+<a href="https://github.com/tiwarishivam-pixel">GitHub</a> •
+<a href="https://x.com/_shivamtiwari9">Twitter</a> •
+<a href="https://shivam-dev-profile.vercel.app/">Portfolio</a>
+</p>
