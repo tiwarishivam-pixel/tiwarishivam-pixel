@@ -43,7 +43,7 @@ Build → Ship → Learn → Repeat
 ### 🤝 Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shivam-tiwari-ai">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/shivam-tiwari-2969392ba/">LinkedIn</a> •
 <a href="https://github.com/tiwarishivam-pixel">GitHub</a> •
 <a href="https://x.com/_shivamtiwari9">Twitter</a> •
 <a href="https://shivam-dev-profile.vercel.app/">Portfolio</a>
