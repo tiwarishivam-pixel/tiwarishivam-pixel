@@ -1,50 +1,37 @@
-<h1 align="center">Shivam Tiwari</h1>
-
 <p align="center">
-Blockchain & Web3 Developer • Full-Stack AI Engineer
-</p>
-
-<p align="center">
-Building decentralized products, experimenting with intelligent systems, and shipping real-world applications.
+  Welcome to my digital workspace. I specialize in building full-stack applications, intelligent AI automations, and decentralized Web3 systems. Whether I'm architecting a new startup or optimizing high-performance web apps, I focus on shipping code that creates real impact.
 </p>
 
 ---
 
-### ⚡ What I Do
-- Smart Contract & DApp Development
-- Full-Stack Product Engineering
-- AI + Web3 Integrations
-- Hackathon-driven innovation
+### 📟 System Status
 
----
+```text
+shivam@tiwari ----------------------------------------------------------~*-*
+. OS: .......................................... Android, Linux, Windows
+. Uptime: ......................................................... [21]
+. Host: ........................................ buddy2buddy (Startup)
+. Kernel: ...................... Co-Founder & Forward Deployed Engineer
+. IDE: ................................................. VSCode, Cursor, [...]
 
-### 🧠 Stack
-`Solidity` `Ethereum` `Web3` `IPFS`  
-`Next.js` `TypeScript` `Node.js` `PostgreSQL`  
-`AI Agents` `Automation`
+. Languages.Programming: .......... Python, C++, JavaScript, TypeScript, [...]
+. Languages.Computer: ............. HTML, CSS, JSON, Markdown, YAML, [...]
+. Tech.Frameworks: ................ Next.js, React, Node.js, [...]
+. Tech.Specialties: ............... Web3 (Algorand/Solana), Machine Learning, [...]
+. Tech.Integrations: .............. API Design, Web Scraping, Telegram Bots, [...]
+. Current.Focus: .................. AI Systems & Workflow Automations, [...]
+. Languages.Real: ................. English, Hindi, Marathi, [...]
 
----
+. Hobbies.Software: ............... Building AI apps, automations, full-stack websites, [...]
+. Hobbies.Sports: ................. Cricket, Football, [...]
 
-### 🚀 Selected Work
+- Contact --------------------------------------------------------------~*-*
+. Email.Personal: ......................................... [shivam810414@gmail.com]
+. LinkedIn: ............... [linkedin.com/in/shivam-tiwari-2969392ba](https://linkedin.com/in/shivam-tiwari-2969392ba)
+. Website: ............................... [shivam-dev-profile.vercel.app]
+. Startup: ............................................. [buddy2buddy.xyz]
 
-**Senri** — AI placement preparation platform with resume builder, mock interviews & automation tools  
-
-**Morvo** — decentralized journalism platform enabling censorship-resistant reporting  
-
-**Coding Agent** — self-improving developer automation system
-
----
-
-### 🌐 Philosophy
-Build → Ship → Learn → Repeat
-
----
-
-### 🤝 Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/shivam-tiwari-2969392ba/">LinkedIn</a> •
-<a href="https://github.com/tiwarishivam-pixel">GitHub</a> •
-<a href="https://x.com/_shivamtiwari9">Twitter</a> •
-<a href="https://shivam-dev-profile.vercel.app/">Portfolio</a>
-</p>
+- GitHub Stats ---------------------------------------------------------~*-*
+. Repos: .... [50+] {Contributed: [100+]} | Stars: .................. [100]
+. Commits: ......................... [50k]
+----------------------------------------------------------------------------
