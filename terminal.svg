@@ -59,7 +59,7 @@
     <!-- GitHub Stats Section -->
     <tspan x="40" dy="1.6em"><tspan class="dot">- </tspan><tspan class="hdr">GitHub Stats </tspan><tspan class="dot">------------------------------------------------------------------------~*-*</tspan></tspan>
     <tspan x="40" dy="1.6em"><tspan class="dot">. </tspan><tspan class="key">Repos:</tspan><tspan class="dot"> .............. </tspan><tspan class="num">50+</tspan><tspan class="val"> {Contributed: </tspan><tspan class="num">100+</tspan><tspan class="val">} | </tspan><tspan class="key">Stars:</tspan><tspan class="dot"> ................. </tspan><tspan class="num">100</tspan></tspan>
-    <tspan x="40" dy="1.6em"><tspan class="dot">. </tspan><tspan class="key">Commits:</tspan><tspan class="dot"> ................................. </tspan><tspan class="num">50k</tspan><tspan class="val">
+    <tspan x="40" dy="1.6em"><tspan class="dot">. </tspan><tspan class="key">Commits:</tspan><tspan class="dot"> ................................. </tspan><tspan class="num">50k</tspan></tspan>
     <tspan x="40" dy="1.6em"><tspan class="dot">. </tspan><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="dot"> .................. </tspan><tspan class="num">150,000</tspan><tspan class="val"> ( </tspan><tspan class="add">100,000++</tspan><tspan class="val"> , </tspan><tspan class="del">50,000--</tspan><tspan class="val"> )</tspan></tspan>
   </text>
 </svg>
