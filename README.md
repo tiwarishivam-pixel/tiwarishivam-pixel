@@ -24,7 +24,7 @@
 
 - [n8n_projects](https://github.com/tiwarishivam-pixel/n8n_projects) - Collection of n8n automation workflows for various use cases.
 - [repoforge](https://github.com/tiwarishivam-pixel/repoforge) - Repository management and automation tool built with Python.
-- YT-Clip - YouTube clip extraction and processing tool. *(Private)*
+- [YT-Clip](https://github.com/tiwarishivam-pixel/YT-Clip) - YouTube clip extraction and processing tool. *(Private)*
 - postpilot - Social media post scheduling and automation platform. *(Private)*
 - ai-code-reviewer - AI-powered automated code review tool. *(Private)*
 
